@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<style>
+	h1,h2,h3,h4,div,ul,li,ol{
+		margin: 0px;
+		padding: 0px;
+	}
+	.main{
+		margin: 0px auto;
+		height: 800px;
+		width: 500px;
+		
+	}
+</style>
+<meta charset="utf-8">
+<title>计算器模拟</title>
+</head>
+
+<body>
+<div class="main">
+	<div class="computer">
+		<div class="top">
+			<input type="text" name=""
+		</div>
+	</div>
+</div>
+</body>
+</html>
